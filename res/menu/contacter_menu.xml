@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+	<item
+        android:id="@+id/menu_add_subscriber"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="添加好友"></item>
+	<item
+        android:id="@+id/menu_modify_state"
+        android:icon="@android:drawable/ic_menu_upload"
+        android:title="更新状态"></item>
+	<item
+        android:id="@+id/menu_relogin"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="重新登录"></item>
+	
+   
+ 	<item
+        android:id="@+id/menu_exit"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="退出"></item>
+</menu>
